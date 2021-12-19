@@ -97,4 +97,10 @@ In his dealings with Formations House, Kuznetsov found the company's connections
 
 While Kuznetsov has left the offshore world, a successor to Formations House is still in business. The company is now part of The London Office, a provider of virtual office services. And while it no longer offers companies with bank accounts attached, its roster of 'ready-made' companies is still deep. At the time of writing, Biz Consultancy Ltd, incorporated in 2003, could be yours for just £5,000. What you do with it is up to you.
 
+*Speaking to The Times in the wake of the 29Leaks revelations, Pawar provided [this general statement](https://www.thetimes.co.uk/article/global-web-of-firms-for-fraudsters-created-by-british-company-formations-house-5sb8zb238):*
+
+> *Ms Pawar, 39, who heads the company from a home in Marylebone, central London, said that the database had been "stolen" from its server and used for "several reported extortion attempts". "Like all other formation agents in our industry, we have no control over the actions of companies and their directors after we have provided our formation service," she said. Ms Pawar said that her business carries out due diligence practices required by Revenue & Customs and performed more due diligence and anti-money laundering checks than were required by Companies House's own online company formation process. "As part of our MLR [money-laundering regulations] registration we are required to carry out regular reviews of our compliance procedures. As a result, from time to time we have added new measures to our processes," she said.*
+
+*She also responded [specifically and at length](https://www.thetimes.co.uk/article/undercover-with-formations-house-it-wont-be-easy-to-take-cash-in-banks-generally-dont-like-it-9z3025slg) to the reporting of the undercover sting.*
+
 [^1]: Vinnik has now been sentenced and is [serving five years](https://news.bitcoin.com/french-court-of-appeals-upholds-alexander-vinniks-sentence/) in France. 
