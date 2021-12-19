@@ -33,7 +33,7 @@ How did a teenager from Moscow end up buying a British company for international
 
 ![View from the embankment next to Gorky Park](https://live.staticflickr.com/1869/44616597552_e95c28e092_c_d.jpg)
 
-*View from the embankment next to Gorky Park ([flickr/@deepgoswami](https://www.flickr.com/photos/deepgoswami/44616597552/)).*
+*View from the embankment next to Gorky Park ([flickr/@deepgoswami](https://www.flickr.com/photos/deepgoswami/44616597552/))*
 
 ## Teenage dreams
 
