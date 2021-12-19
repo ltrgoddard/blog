@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+emoji: ⛰️
 title: Louis Goddard
 email: louisgoddard@gmail.com
 phone: +44 (0)7909 027 117
