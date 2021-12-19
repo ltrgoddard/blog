@@ -29,7 +29,7 @@ twitter_username: ltrgoddard
 github_username:  ltrgoddard
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
