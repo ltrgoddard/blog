@@ -23,15 +23,16 @@ email: louisgoddard@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My day job is doing data-driven investigative journalism for the campaign group Global Witness. This blog is for everything else.
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: blog.ltrg.co.uk
-url: https://blog.ltrg.co.uk # the base hostname & protocol for your site, e.g. http://example.com
+domain: ltrg.co.uk
+url: https://ltrg.co.uk # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ltrgoddard
 github_username:  ltrgoddard
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
